@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>H.Huang</h1>
+      <h1>黄浩</h1>
       <p><b>博士研究生</b></p>
       <p><b>中国科学院大学  核科学与技术学院</b></p>
       <p><b>邮箱：huanghao@impcas.ac.cn</b></p>
